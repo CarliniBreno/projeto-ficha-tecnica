@@ -1,0 +1,35 @@
+/* Geral */
+
+p, li{
+    font-size: 14px;
+    color: #444;
+}
+
+/* Barra de navegação */
+
+header, .navbar{
+    background-color: #F08080
+}
+
+#navbar-links{
+    margin-right: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#navbar-links a{
+    color: aliceblue;
+}
+
+#navbar-links a:hover{
+    color: aquamarine;
+}
+
+#logo{
+    width: 100px;
+    margin-left: 25px;
+}
+#sm-logos{
+    width: 30px;
+    margin-right: -0.7%;
+}
