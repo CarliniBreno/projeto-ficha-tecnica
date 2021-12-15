@@ -1,14 +1,5 @@
-/* Geral */
-
-p, li{
-    font-size: 14px;
-    color: #444;
-}
-
-/* Barra de navegação */
-
 header, .navbar{
-    background-color: #F08080
+    background-color: #F18686
 }
 
 #navbar-links{
@@ -29,7 +20,17 @@ header, .navbar{
     width: 100px;
     margin-left: 25px;
 }
+
 #sm-logos{
     width: 30px;
     margin-right: -0.7%;
 }
+/* 
+.bg{
+    background-image: url(assets/gradient-white-red-linear-1920x1080-c2-f08080-ffffff-a-90-f-14.png);
+}
+.ficha{
+    background-color: floralwhite;
+    width: 100px;
+    height: 1000px;
+} */
