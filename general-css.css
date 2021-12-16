@@ -35,17 +35,17 @@ h1{
     display: inline-block;
 }
 
-#bluediv{
+#rediv{
     background-color: #A52A2A;
     width: 30vw;
-    height: 305vh;
+    height: 302vh;
     text-align: center;
 }
 
 #whitediv{
     background-color: white;
     width: 60vw;
-    height: 305vh;
+    height: 302vh;
     padding-left: 150px;
 }
 
@@ -129,4 +129,8 @@ h5{
 
 .marginleft{
     margin-left: 50px;
+}
+
+.margins{
+    margin-left: 80px;
 }
