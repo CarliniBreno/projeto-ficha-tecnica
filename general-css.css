@@ -1,13 +1,13 @@
-header, .navbar{
-    background-color: #F18686
-}
-
 main {
     display: flex;
 }
 
+h1{
+    padding-top: 50px;
+}
+
 #navbar-links{
-    margin-right: 100px;
+    margin-top: 20px;
     font-size: 20px;
     font-weight: bold;
 }
@@ -20,14 +20,10 @@ main {
     color: aliceblue;
 }
 
-#logo{
-    width: 100px;
-    margin-left: 25px;
-}
-
 #sm-logos{
     width: 30px;
     margin-right: -0.7%;
+    margin-bottom: -10px;
 }
 
 .flaviocenter{
@@ -37,17 +33,64 @@ main {
 #bluediv{
     background-color: #4682B4;
     width: 30vw;
-    height: 100vh;
+    height: 200vh;
     text-align: center;
 }
 
 #whitediv{
     background-color: white;
-    width: 70vw;
-    height: 100vh;
+    width: 52vw;
+    height: 200vh;
     padding-left: 150px;
 }
 
 #me{
     width: 300px;
+    margin-top: 40px;
+}
+
+.centerobjects{
+    display: block;
+    justify-content: left;
+    margin-top: 100px;
+}
+
+#name{
+    color: #4169E1;
+}
+h2{
+    margin-bottom: 35px;
+}
+
+h3{
+    color: #447caa;
+}
+
+#flavio{
+    height: 120px;
+}
+h4{
+    color: #4682B4;
+}
+h5{
+    margin-bottom: 70px;
+}
+
+#educacao{
+    margin-bottom: 50px;
+}
+
+.logoscards{
+    width: 200px;
+    margin-left: 45px;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card2{
+    margin-left: 150px;
 }
