@@ -6,6 +6,11 @@ h1{
     padding-top: 50px;
 }
 
+#local{
+    width: 80px;
+    margin-top: 90px;
+}
+
 #navbar-links{
     margin-top: 20px;
     font-size: 20px;
@@ -31,16 +36,16 @@ h1{
 }
 
 #bluediv{
-    background-color: #4682B4;
+    background-color: #A52A2A;
     width: 30vw;
-    height: 250vh;
+    height: 305vh;
     text-align: center;
 }
 
 #whitediv{
     background-color: white;
-    width: 52vw;
-    height: 250vh;
+    width: 60vw;
+    height: 305vh;
     padding-left: 150px;
 }
 
@@ -56,21 +61,21 @@ h1{
 }
 
 #name{
-    color: #4169E1;
+    color: #8B0000;
 }
 h2{
     margin-bottom: 35px;
 }
 
 h3{
-    color: #447caa;
+    color: #B22222;
 }
 
 #flavio{
     height: 120px;
 }
 h4{
-    color: #4682B4;
+    color: #B22222;
 }
 h5{
     margin-bottom: 70px;
@@ -120,4 +125,8 @@ h5{
 
 .margintop2{
     margin-top: -40px;
+}
+
+.marginleft{
+    margin-left: 50px;
 }
