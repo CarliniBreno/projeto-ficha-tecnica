@@ -2,6 +2,10 @@ header, .navbar{
     background-color: #F18686
 }
 
+main {
+    display: flex;
+}
+
 #navbar-links{
     margin-right: 100px;
     font-size: 20px;
@@ -9,11 +13,11 @@ header, .navbar{
 }
 
 #navbar-links a{
-    color: aliceblue;
+    color: black;
 }
 
 #navbar-links a:hover{
-    color: aquamarine;
+    color: aliceblue;
 }
 
 #logo{
@@ -25,12 +29,25 @@ header, .navbar{
     width: 30px;
     margin-right: -0.7%;
 }
-/* 
-.bg{
-    background-image: url(assets/gradient-white-red-linear-1920x1080-c2-f08080-ffffff-a-90-f-14.png);
+
+.flaviocenter{
+    display: inline-block;
 }
-.ficha{
-    background-color: floralwhite;
-    width: 100px;
-    height: 1000px;
-} */
+
+#bluediv{
+    background-color: #4682B4;
+    width: 30vw;
+    height: 100vh;
+    text-align: center;
+}
+
+#whitediv{
+    background-color: white;
+    width: 70vw;
+    height: 100vh;
+    padding-left: 150px;
+}
+
+#me{
+    
+}
