@@ -1,0 +1,165 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    display: flex;
+}
+
+h1{
+    padding-top: 50px;
+    color: azure;
+}
+
+#local{
+    width: 80px;
+    margin-top: 70px;
+    filter: invert(91%) sepia(88%) saturate(7500%) hue-rotate(179deg) brightness(111%) contrast(103%);
+}
+
+.localcolor{
+    color: #b8c0c7;
+}
+
+.barcolor{
+    color: #831D1C;
+}
+
+#navbar-links{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#navbar-links a{
+    color: #f0f8ff;
+}
+
+#navbar-links a:hover{
+    color: #d0d8df;
+}
+
+.replit {
+    filter: invert(99%) sepia(18%) saturate(816%) hue-rotate(178deg) brightness(500%) contrast(100%) !important;
+}
+
+#sm-logos{
+    width: 30px;
+    margin-right: -0.7%;
+    margin-bottom: -10px;
+    filter: invert(91%) sepia(88%) saturate(7500%) hue-rotate(179deg) brightness(111%) contrast(103%);
+}
+
+#sm-logos:hover{
+    width: 30px;
+    margin-right: -0.7%;
+    margin-bottom: -10px;
+    color: blueviolet;
+}
+
+.flaviocenter{
+    display: inline-block;
+}
+
+#rediv{
+    background-color: #1A181B;
+    width: 30vw;
+    height: 302vh;
+    text-align: center;
+}
+
+#whitediv{
+    background-color: white;
+    width: 60vw;
+    height: 302vh;
+    padding-left: 150px;
+}
+
+#me{
+    width: 300px;
+    margin-top: 40px;
+}
+
+.centerobjects{
+    display: block;
+    justify-content: left;
+    margin-top: 100px;
+}
+
+#name{
+    color: #6E0D25;
+}
+
+h2{
+    margin-bottom: 35px;
+}
+
+h3{
+    color: #770e28;
+}
+
+#flavio{
+    height: 120px;
+}
+
+h4{
+    color: #800e2a;
+}
+
+h5{
+    margin-bottom: 70px;
+}
+
+#educacao{
+    margin-bottom: 50px;
+}
+
+.logoscards{
+    width: 200px;
+    margin-left: 45px;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card2{
+    margin-left: 150px;
+}
+
+.centerbutton{
+    display: flex;
+    justify-content: center;
+}
+
+.topmargin{
+    margin-top: 10%;
+}
+
+.marginbot{
+    margin-bottom: 80px
+}
+
+.progresses{
+    margin-bottom: -1px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.margintop{
+    margin-top: 20px;
+}
+
+.margintop2{
+    margin-top: -40px;
+}
+
+.marginleft{
+    margin-left: 50px;
+}
+
+.margins{
+    margin-left: 80px;
+}
